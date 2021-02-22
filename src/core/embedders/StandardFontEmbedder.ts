@@ -3,7 +3,7 @@ import {
   Font,
   FontNames,
   EncodingType,
-} from '@pdf-lib/standard-fonts';
+} from '@exodus/pdf-lib-standard-fonts';
 
 import PDFHexString from 'src/core/objects/PDFHexString';
 import PDFRef from 'src/core/objects/PDFRef';

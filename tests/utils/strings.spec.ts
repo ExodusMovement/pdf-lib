@@ -1,5 +1,5 @@
 import fontkit from '@pdf-lib/fontkit';
-import { FontNames } from '@pdf-lib/standard-fonts';
+import { FontNames } from '@exodus/pdf-lib-standard-fonts';
 import fs from 'fs';
 
 import { CustomFontEmbedder, StandardFontEmbedder } from 'src/core';
