@@ -73,7 +73,7 @@
   ],
   "dependencies": {
     "@exodus/pdf-lib-standard-fonts": "^1.0.0-exodus1",
-    "@pdf-lib/upng": "^1.0.1",
+    "@exodus/pdf-lib-upng": "^1.0.1-exodus0",
     "tslib": "^1.11.1"
   },
   "devDependencies": {

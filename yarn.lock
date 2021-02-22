@@ -436,6 +436,11 @@
   resolved "https://registry.yarnpkg.com/@exodus/pdf-lib-standard-fonts/-/pdf-lib-standard-fonts-1.0.0-exodus1.tgz#9f460b83a83232c79a1b50b115a6cc2406ad34f4"
   integrity sha512-Eniw3nx3lTwVbSq6oslJ4SRG7zgldeLJQXR7oEnFMdRTNxoBhBBpj3SSqhptcGYIvM9F354HvVKhu6LDh7SVeg==
 
+"@exodus/pdf-lib-upng@^1.0.1-exodus0":
+  version "1.0.1-exodus0"
+  resolved "https://registry.yarnpkg.com/@exodus/pdf-lib-upng/-/pdf-lib-upng-1.0.1-exodus0.tgz#10192e337a2eb9cd8088dfe2a72a4bf1617042ff"
+  integrity sha512-unvrzKtl2oOWgfS3wA8TA3xI9Z6GIuS4F5mu8oCT8JHDN/T5vkkq282OBw1RFvmWGL1uHuzaNsp0uwVYJ8BN2g==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.0.0.tgz#10602de5570baea82f8afbfa2630b24e7a8cfe5b"
@@ -633,13 +638,6 @@
   integrity sha512-KjMd7grNapIWS/Dm0gvfHEilSyAmeLvrEGVcqLGi0VYebuqqzTbgF29efCx7tvx+IEbG3zQciRSWl3GkUSvjZg==
   dependencies:
     pako "^1.0.6"
-
-"@pdf-lib/upng@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@pdf-lib/upng/-/upng-1.0.1.tgz#7dc9c636271aca007a9df4deaf2dd7e7960280cb"
-  integrity sha512-dQK2FUMQtowVP00mtIksrlZhdFXQZPC+taih1q4CvPZ5vqdxR/LKBaFg0oAfzd1GlHZXXSPdQfzQnt+ViGvEIQ==
-  dependencies:
-    pako "^1.0.10"
 
 "@rollup/plugin-commonjs@^13.0.0":
   version "13.0.0"
@@ -3160,7 +3158,7 @@ p-try@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
-pako@^1.0.10, pako@^1.0.6:
+pako@^1.0.6:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.10.tgz#4328badb5086a426aa90f541977d4955da5c9732"
   integrity sha512-0DTvPVU3ed8+HNXOu5Bs+o//Mbdj9VNQMUOe9oKCwh8l0GNwpTDMKCWbRjgtD291AWnkAgkqA/LOnQS8AmS1tw==
