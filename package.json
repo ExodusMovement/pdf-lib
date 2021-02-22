@@ -75,7 +75,6 @@
   "dependencies": {
     "@pdf-lib/standard-fonts": "^1.0.0",
     "@pdf-lib/upng": "^1.0.1",
-    "pako": "^1.0.11",
     "tslib": "^1.11.1"
   },
   "devDependencies": {
@@ -85,7 +84,6 @@
     "@rollup/plugin-node-resolve": "^8.0.1",
     "@types/jest": "^26.0.0",
     "@types/node-fetch": "^2.5.7",
-    "@types/pako": "^1.0.1",
     "@zerollup/ts-transform-paths": "^1.7.18",
     "downlevel-dts": "^0.5.0",
     "flamebearer": "^1.1.3",
